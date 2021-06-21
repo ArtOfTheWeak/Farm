@@ -5,3 +5,4 @@ Farm is a single channel installation that utilises a Kodak carousel slide proje
 
 [FrameGridv.01.pde](https://github.com/ArtOfTheWeak/Farm/blob/main/FarmGridV_01.pde) An earlier version of the project that uses processing to dsiaply images in a grid like format. 
 
+[imageSelection.py ](https://github.com/ArtOfTheWeak/Farm/blob/main/imageSelection.py) Script to iterate through directories and subdirectories, randomly selecting images and putting them in a new folder
